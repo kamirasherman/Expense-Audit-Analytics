@@ -1,0 +1,231 @@
+txn_id,vendor_id,employee_id,txn_date,amount,category,status,description
+T0001,V011,E011,2025-03-03,2526.43,Equipment,Approved,workstation refresh
+T0002,V009,E003,2025-05-29,375.47,Software,Approved,license renewal
+T0003,V002,E010,2025-01-22,693.49,Equipment,Approved,workstation refresh
+T0004,V010,E004,2025-06-04,801.59,Consulting,Pending,process review engagement
+T0005,V006,E005,2025-06-02,2230.51,Travel,Approved,client site visit
+T0006,V009,E008,2025-02-05,810.39,Software,Pending,license renewal
+T0007,V003,E006,2025-05-28,1566.76,Travel,Approved,client site visit
+T0008,V006,E012,2025-01-29,697.03,Software,Approved,license renewal
+T0009,V008,E012,2025-04-30,245.55,Marketing,Approved,campaign materials
+T0010,V012,E007,2025-07-21,277.67,Marketing,Approved,campaign materials
+T0011,V003,E012,2025-02-17,74.06,Travel,Pending,client site visit
+T0012,V007,E009,2025-04-07,1073.65,Software,Pending,license renewal
+T0013,V004,E003,2025-08-06,257.01,Office Supplies,Approved,quarterly restock
+T0014,V005,E005,2025-03-28,152.1,Office Supplies,Approved,quarterly restock
+T0015,V012,E009,2025-07-24,1235.82,Equipment,Pending,workstation refresh
+T0016,V007,E007,2025-01-23,92.0,Consulting,Approved,process review engagement
+T0017,V008,E003,2025-02-13,380.0,Office Supplies,Approved,quarterly restock
+T0018,V006,E010,2025-06-17,213.24,Office Supplies,Approved,quarterly restock
+T0019,V006,E010,2025-05-05,471.01,Software,Pending,license renewal
+T0020,V008,E005,2025-02-27,1004.01,Office Supplies,Approved,quarterly restock
+T0021,V003,E012,2025-03-13,206.0,Equipment,Approved,workstation refresh
+T0022,V003,E006,2025-03-04,618.78,Travel,Approved,client site visit
+T0023,V004,E007,2025-01-13,884.79,Marketing,Approved,campaign materials
+T0024,V005,E008,2025-07-31,148.72,Software,Approved,license renewal
+T0025,V006,E002,2025-05-09,154.6,Travel,Approved,client site visit
+T0026,V008,E011,2025-08-26,816.88,Software,Pending,license renewal
+T0027,V012,E004,2025-01-28,1423.72,Consulting,Pending,process review engagement
+T0028,V008,E007,2025-08-25,274.88,Marketing,Pending,campaign materials
+T0029,V011,E003,2025-01-09,716.09,Equipment,Approved,workstation refresh
+T0030,V009,E012,2025-01-13,222.11,Travel,Approved,client site visit
+T0031,V004,E005,2025-04-23,187.04,Equipment,Approved,workstation refresh
+T0032,V001,E012,2025-04-23,3038.92,Software,Approved,license renewal
+T0033,V009,E003,2025-06-10,560.05,Equipment,Approved,workstation refresh
+T0034,V003,E003,2025-05-21,424.57,Travel,Pending,client site visit
+T0035,V002,E009,2025-05-15,288.0,Office Supplies,Pending,quarterly restock
+T0036,V009,E001,2025-02-26,393.02,Office Supplies,Approved,quarterly restock
+T0037,V008,E009,2025-05-19,1292.15,Equipment,Approved,workstation refresh
+T0038,V009,E004,2025-01-24,260.39,Consulting,Approved,process review engagement
+T0039,V007,E002,2025-02-14,1654.14,Travel,Approved,client site visit
+T0040,V003,E005,2025-06-25,1573.49,Travel,Approved,client site visit
+T0041,V003,E012,2025-04-07,1771.39,Consulting,Approved,process review engagement
+T0042,V002,E012,2025-01-22,448.71,Software,Approved,license renewal
+T0043,V004,E002,2025-04-24,889.31,Office Supplies,Approved,quarterly restock
+T0044,V007,E003,2025-01-28,2224.26,Equipment,Approved,workstation refresh
+T0045,V001,E012,2025-06-17,435.15,Travel,Approved,client site visit
+T0046,V005,E002,2025-05-27,1373.93,Equipment,Pending,workstation refresh
+T0047,V005,E010,2025-03-25,314.52,Travel,Approved,client site visit
+T0048,V005,E008,2025-03-11,709.37,Equipment,Approved,workstation refresh
+T0049,V001,E001,2025-04-30,733.43,Marketing,Approved,campaign materials
+T0050,V011,E011,2025-05-15,838.95,Consulting,Approved,process review engagement
+T0051,V012,E004,2025-06-17,115.81,Travel,Approved,client site visit
+T0052,V007,E006,2025-01-20,2470.36,Office Supplies,Approved,quarterly restock
+T0053,V011,E007,2025-01-17,711.02,Equipment,Pending,workstation refresh
+T0054,V003,E003,2025-05-26,439.87,Software,Approved,license renewal
+T0055,V004,E001,2025-01-27,289.12,Software,Pending,license renewal
+T0056,V005,E009,2025-03-14,194.0,Marketing,Approved,campaign materials
+T0057,V003,E007,2025-05-21,332.3,Equipment,Approved,workstation refresh
+T0058,V011,E012,2025-02-13,382.55,Equipment,Approved,workstation refresh
+T0059,V012,E010,2025-07-04,974.22,Marketing,Approved,campaign materials
+T0060,V009,E009,2025-07-02,1655.14,Equipment,Approved,workstation refresh
+T0061,V002,E001,2025-08-07,203.0,Office Supplies,Pending,quarterly restock
+T0062,V009,E001,2025-01-23,288.38,Marketing,Approved,campaign materials
+T0063,V011,E009,2025-03-14,1013.43,Office Supplies,Approved,quarterly restock
+T0064,V012,E004,2025-06-30,485.35,Travel,Approved,client site visit
+T0065,V001,E010,2025-03-12,625.74,Marketing,Approved,campaign materials
+T0066,V010,E010,2025-06-27,165.93,Travel,Pending,client site visit
+T0067,V005,E012,2025-08-22,265.09,Equipment,Approved,workstation refresh
+T0068,V005,E002,2025-05-01,124.35,Consulting,Approved,process review engagement
+T0069,V007,E004,2025-06-09,826.86,Travel,Approved,client site visit
+T0070,V002,E012,2025-05-01,482.0,Software,Pending,license renewal
+T0071,V005,E012,2025-03-31,400.44,Travel,Approved,client site visit
+T0072,V006,E006,2025-06-05,293.86,Consulting,Approved,process review engagement
+T0073,V006,E007,2025-06-24,1054.0,Software,Approved,license renewal
+T0074,V011,E003,2025-07-22,1790.12,Travel,Approved,client site visit
+T0075,V007,E001,2025-02-27,142.33,Marketing,Approved,campaign materials
+T0076,V001,E012,2025-03-20,362.58,Consulting,Pending,process review engagement
+T0077,V001,E009,2025-03-12,206.7,Travel,Approved,client site visit
+T0078,V007,E011,2025-02-17,246.01,Travel,Approved,client site visit
+T0079,V002,E004,2025-08-26,1713.5,Equipment,Approved,workstation refresh
+T0080,V008,E007,2025-05-28,543.27,Travel,Approved,client site visit
+T0081,V006,E004,2025-07-16,207.08,Software,Pending,license renewal
+T0082,V007,E007,2025-01-21,523.16,Marketing,Pending,campaign materials
+T0083,V005,E010,2025-08-14,153.98,Software,Approved,license renewal
+T0084,V002,E005,2025-03-26,297.91,Travel,Approved,client site visit
+T0085,V003,E001,2025-04-16,446.0,Consulting,Pending,process review engagement
+T0086,V008,E004,2025-08-05,297.99,Office Supplies,Pending,quarterly restock
+T0087,V002,E009,2025-02-07,550.77,Office Supplies,Approved,quarterly restock
+T0088,V009,E011,2025-05-20,696.0,Consulting,Approved,process review engagement
+T0089,V007,E005,2025-05-07,298.86,Travel,Approved,client site visit
+T0090,V009,E004,2025-03-12,488.82,Office Supplies,Approved,quarterly restock
+T0091,V011,E007,2025-02-25,320.05,Software,Approved,license renewal
+T0092,V005,E012,2025-07-21,131.06,Equipment,Approved,workstation refresh
+T0093,V004,E008,2025-03-04,99.11,Travel,Pending,client site visit
+T0094,V007,E011,2025-02-11,399.81,Office Supplies,Pending,quarterly restock
+T0095,V001,E012,2025-03-27,203.12,Office Supplies,Approved,quarterly restock
+T0096,V002,E003,2025-05-05,124.69,Software,Approved,license renewal
+T0097,V005,E011,2025-02-18,365.29,Marketing,Approved,campaign materials
+T0098,V001,E002,2025-05-29,161.36,Software,Approved,license renewal
+T0099,V007,E006,2025-05-07,1183.0,Software,Approved,license renewal
+T0100,V006,E009,2025-01-13,233.81,Consulting,Pending,process review engagement
+T0101,V004,E011,2025-04-02,111.66,Consulting,Approved,process review engagement
+T0102,V005,E006,2025-07-31,160.22,Equipment,Approved,workstation refresh
+T0103,V001,E004,2025-04-14,203.1,Office Supplies,Approved,quarterly restock
+T0104,V007,E008,2025-07-14,1106.51,Travel,Approved,client site visit
+T0105,V012,E003,2025-02-25,372.37,Equipment,Pending,workstation refresh
+T0106,V003,E004,2025-08-20,555.82,Consulting,Approved,process review engagement
+T0107,V002,E005,2025-03-06,488.77,Equipment,Approved,workstation refresh
+T0108,V007,E008,2025-07-23,1085.29,Equipment,Approved,workstation refresh
+T0109,V005,E005,2025-02-25,580.97,Software,Pending,license renewal
+T0110,V004,E003,2025-01-22,279.15,Travel,Pending,client site visit
+T0111,V005,E004,2025-01-15,553.0,Equipment,Approved,workstation refresh
+T0112,V001,E008,2025-08-05,180.0,Travel,Approved,client site visit
+T0113,V002,E006,2025-07-24,1374.92,Equipment,Approved,workstation refresh
+T0114,V002,E011,2025-04-03,811.0,Equipment,Approved,workstation refresh
+T0115,V001,E004,2025-06-13,1133.36,Software,Approved,license renewal
+T0116,V002,E004,2025-01-31,1351.0,Office Supplies,Pending,quarterly restock
+T0117,V011,E009,2025-07-03,624.18,Travel,Approved,client site visit
+T0118,V007,E005,2025-04-22,252.56,Marketing,Approved,campaign materials
+T0119,V006,E011,2025-04-24,371.1,Travel,Approved,client site visit
+T0120,V002,E007,2025-01-09,1475.06,Equipment,Approved,workstation refresh
+T0121,V009,E003,2025-04-10,1079.6,Marketing,Approved,campaign materials
+T0122,V003,E006,2025-04-14,262.0,Software,Pending,license renewal
+T0123,V004,E005,2025-06-17,1248.62,Travel,Pending,client site visit
+T0124,V002,E012,2025-08-13,7111.25,Equipment,Approved,workstation refresh
+T0125,V010,E007,2025-04-14,263.47,Equipment,Approved,workstation refresh
+T0126,V002,E003,2025-02-05,2473.54,Travel,Pending,client site visit
+T0127,V010,E008,2025-04-15,687.19,Equipment,Approved,workstation refresh
+T0128,V008,E009,2025-06-13,2005.56,Consulting,Pending,process review engagement
+T0129,V003,E008,2025-05-16,437.92,Consulting,Approved,process review engagement
+T0130,V001,E011,2025-05-15,1185.0,Travel,Pending,client site visit
+T0131,V011,E003,2025-08-20,3418.04,Office Supplies,Pending,quarterly restock
+T0132,V005,E003,2025-06-12,175.3,Marketing,Approved,campaign materials
+T0133,V008,E003,2025-03-14,514.27,Software,Approved,license renewal
+T0134,V006,E006,2025-03-18,226.06,Office Supplies,Approved,quarterly restock
+T0135,V007,E003,2025-04-08,138.87,Software,Pending,license renewal
+T0136,V009,E009,2025-07-29,216.03,Equipment,Approved,workstation refresh
+T0137,V005,E007,2025-04-29,593.9,Software,Approved,license renewal
+T0138,V003,E010,2025-03-26,1346.1,Marketing,Approved,campaign materials
+T0139,V012,E001,2025-03-05,675.59,Marketing,Approved,campaign materials
+T0140,V001,E001,2025-05-22,571.83,Office Supplies,Approved,quarterly restock
+T0141,V007,E010,2025-05-07,585.72,Software,Approved,license renewal
+T0142,V003,E001,2025-02-12,883.0,Travel,Approved,client site visit
+T0143,V007,E005,2025-06-09,2199.48,Office Supplies,Pending,quarterly restock
+T0144,V004,E003,2025-03-07,109.63,Office Supplies,Approved,quarterly restock
+T0145,V001,E002,2025-04-21,817.9,Office Supplies,Approved,quarterly restock
+T0146,V009,E010,2025-02-19,507.72,Marketing,Approved,campaign materials
+T0147,V002,E005,2025-07-15,2287.0,Marketing,Pending,campaign materials
+T0148,V002,E012,2025-03-06,448.0,Marketing,Approved,campaign materials
+T0149,V002,E006,2025-06-30,335.05,Marketing,Approved,campaign materials
+T0150,V005,E011,2025-08-25,134.36,Travel,Approved,client site visit
+T0151,V012,E004,2025-03-31,866.62,Travel,Approved,client site visit
+T0152,V007,E011,2025-01-07,548.04,Marketing,Approved,campaign materials
+T0153,V007,E012,2025-06-04,576.45,Travel,Approved,client site visit
+T0154,V010,E003,2025-07-04,616.88,Travel,Approved,client site visit
+T0155,V001,E001,2025-01-17,1110.23,Travel,Approved,client site visit
+T0156,V010,E006,2025-08-11,295.0,Travel,Approved,client site visit
+T0157,V011,E011,2025-06-20,473.08,Software,Approved,license renewal
+T0158,V005,E006,2025-03-19,436.93,Software,Approved,license renewal
+T0159,V012,E006,2025-03-20,1400.36,Software,Approved,license renewal
+T0160,V007,E001,2025-05-23,508.71,Consulting,Approved,process review engagement
+T0161,V012,E002,2025-02-26,894.0,Equipment,Approved,workstation refresh
+T0162,V001,E001,2025-05-12,479.21,Software,Approved,license renewal
+T0163,V009,E005,2025-07-04,1282.79,Equipment,Approved,workstation refresh
+T0164,V008,E003,2025-04-07,91.19,Office Supplies,Approved,quarterly restock
+T0165,V007,E007,2025-03-06,494.21,Marketing,Pending,campaign materials
+T0166,V003,E009,2025-06-03,2417.86,Equipment,Approved,workstation refresh
+T0167,V009,E003,2025-04-28,1299.88,Consulting,Approved,process review engagement
+T0168,V010,E004,2025-05-15,240.54,Travel,Approved,client site visit
+T0169,V005,E005,2025-03-10,1839.87,Marketing,Approved,campaign materials
+T0170,V010,E009,2025-07-11,226.07,Software,Approved,license renewal
+T0171,V003,E011,2025-03-24,283.2,Office Supplies,Approved,quarterly restock
+T0172,V007,E005,2025-07-02,465.72,Travel,Approved,client site visit
+T0173,V009,E011,2025-01-07,461.25,Software,Approved,license renewal
+T0174,V007,E012,2025-06-25,722.42,Equipment,Approved,workstation refresh
+T0175,V011,E003,2025-07-04,177.25,Marketing,Approved,campaign materials
+T0176,V007,E004,2025-04-24,1198.15,Consulting,Pending,process review engagement
+T0177,V008,E001,2025-02-21,1554.79,Equipment,Approved,workstation refresh
+T0178,V001,E007,2025-02-26,301.54,Consulting,Approved,process review engagement
+T0179,V002,E010,2025-06-18,616.53,Consulting,Approved,process review engagement
+T0180,V009,E006,2025-04-16,980.74,Consulting,Approved,process review engagement
+T0181,V012,E010,2025-01-21,654.67,Software,Approved,license renewal
+T0182,V002,E007,2025-03-04,907.37,Consulting,Approved,process review engagement
+T0183,V012,E007,2025-07-23,1849.85,Equipment,Approved,workstation refresh
+T0184,V011,E004,2025-02-12,1081.49,Consulting,Approved,process review engagement
+T0185,V011,E011,2025-02-07,459.53,Consulting,Pending,process review engagement
+T0186,V006,E004,2025-05-09,1351.19,Software,Approved,license renewal
+T0187,V012,E005,2025-04-25,280.34,Software,Approved,license renewal
+T0188,V011,E006,2025-01-24,607.0,Travel,Approved,client site visit
+T0189,V005,E010,2025-05-01,1131.17,Office Supplies,Approved,quarterly restock
+T0190,V003,E004,2025-06-10,846.59,Consulting,Approved,process review engagement
+T0191,V011,E009,2025-05-21,945.52,Marketing,Approved,campaign materials
+T0192,V012,E008,2025-03-06,1859.29,Marketing,Approved,campaign materials
+T0193,V008,E008,2025-03-10,137.1,Equipment,Pending,workstation refresh
+T0194,V003,E009,2025-06-25,1324.65,Equipment,Approved,workstation refresh
+T0195,V008,E006,2025-06-18,20.0,Consulting,Approved,process review engagement
+T0196,V011,E011,2025-07-18,833.71,Office Supplies,Approved,quarterly restock
+T0197,V001,E004,2025-06-23,424.0,Marketing,Approved,campaign materials
+T0198,V006,E008,2025-04-03,1278.24,Equipment,Pending,workstation refresh
+T0199,V005,E009,2025-04-01,1005.66,Office Supplies,Approved,quarterly restock
+T0200,V009,E006,2025-03-28,1551.56,Travel,Approved,client site visit
+T0201,V003,E010,2025-04-18,347.13,Marketing,Approved,campaign materials
+T0202,V002,E001,2025-08-26,804.88,Office Supplies,Pending,quarterly restock
+T0203,V010,E003,2025-01-27,1167.58,Marketing,Approved,campaign materials
+T0204,V001,E011,2025-02-21,375.0,Marketing,Approved,campaign materials
+T0205,V007,E002,2025-08-14,219.71,Marketing,Approved,campaign materials
+T0206,V003,E007,2025-08-27,301.18,Office Supplies,Approved,quarterly restock
+T0207,V008,E010,2025-04-30,1522.72,Equipment,Approved,workstation refresh
+T0208,V001,E011,2025-05-26,659.41,Consulting,Approved,process review engagement
+T0209,V002,E011,2025-01-07,292.0,Consulting,Approved,process review engagement
+T0210,V011,E011,2025-03-17,300.33,Office Supplies,Approved,quarterly restock
+T0211,V001,E002,2025-03-12,842.5,Office Supplies,Approved,duplicate charge review
+T0212,V001,E002,2025-03-12,842.5,Office Supplies,Approved,duplicate charge review
+T0213,V002,E002,2025-05-21,1290.0,Travel,Approved,duplicate charge review
+T0214,V002,E002,2025-05-21,1290.0,Travel,Approved,duplicate charge review
+T0215,V003,E002,2025-07-09,375.99,Software,Approved,duplicate charge review
+T0216,V003,E002,2025-07-09,375.99,Software,Approved,duplicate charge review
+T0217,V001,E004,2025-04-17,48500.0,Office Supplies,Approved,bulk order - verify
+T0218,V002,E009,2025-06-03,32000.0,Travel,Approved,conference block - verify
+T0219,V006,E005,2025-02-11,4999.0,Consulting,Approved,threshold review
+T0220,V008,E005,2025-03-25,4950.0,Equipment,Approved,threshold review
+T0221,V010,E005,2025-05-30,4985.5,Software,Approved,threshold review
+T0222,V006,E005,2025-07-22,4995.0,Consulting,Approved,threshold review
+T0223,V003,E011,2025-02-15,515.54,Software,Approved,weekend posting review
+T0224,V003,E011,2025-05-17,720.95,Software,Approved,weekend posting review
+T0225,V003,E011,2025-08-16,845.96,Software,Approved,weekend posting review
+T0226,V005,E003,2025-04-02,210.75,,Pending,uncategorized
+T0227,V009,E012,2025-06-19,88.4,,Pending,uncategorized
+T0228,V013,E005,2025-03-04,2750.0,Equipment,Approved,pre-existence vendor txn
+T0229,V013,E005,2025-04-11,1980.0,Equipment,Approved,pre-existence vendor txn
+T0230,V004,E007,2025-05-14,640.0,Office Supplies,Approved,pre-hire employee txn
